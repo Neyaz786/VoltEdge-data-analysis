@@ -6,7 +6,7 @@ Here below is information about VoltEdge
 
 ## Case Study Questions
 
-1. Data Pre-Processing
+# 1. Data Pre-Processing
 
 Using the provided Excel data, mention the data columns and identify the keys (primary, secondary, foreign).
 
@@ -18,7 +18,11 @@ Enlist the preprocessing and refinement steps, with key observations/assumptions
 
 
 
-2. National Business Performance Overview
+
+
+
+
+# 2. National Business Performance Overview
 
 Populate revenue and profit tables and create visualizations (e.g., line charts).
 
@@ -30,7 +34,10 @@ Mention hypotheses for the observed trends.
 
 
 
-3. Brand and Product Category Performance
+
+
+
+# 3. Brand and Product Category Performance
 
 How are VoltEdge products performing compared to other brands?
 
@@ -40,7 +47,10 @@ Share insights on top performers and struggling brands/categories.
 
 
 
-4. Subcategory Deep Dives
+
+
+
+# 4. Subcategory Deep Dives
 
 Analyze subcategories using revenue share and profit scatter plots.
 
@@ -49,14 +59,20 @@ Interpret the graph and give actionable insights for store managers.
 
 
 
-5.1 Store Performance Review – Individual Stores
+
+
+
+# 5.1 Store Performance Review – Individual Stores
 
 Evaluate store-level performance using growth, profit, and market share data.
 
 Identify top and bottom performers.
 
 
-5.2 Store Performance Review – Weighted Ranking
+
+
+
+# 5.2 Store Performance Review – Weighted Ranking
 
 Rank stores based on weighted score of four metrics:
 
@@ -72,7 +88,10 @@ Market Share Delta (40%)
 Recommend which store should be closed down based on performance and cost.
 
 
-6. Customer Demographics & Loyalty
+
+
+
+# 6. Customer Demographics & Loyalty
 
 Calculate average age and gender split across customer segments.
 
@@ -84,7 +103,10 @@ Report VoltEdge brand penetration by customer segment.
 
 
 
-7. Customer & Store Segmentation
+
+
+
+# 7. Customer & Store Segmentation
 
 Create a cross-tab of customer vs. store segment counts.
 
